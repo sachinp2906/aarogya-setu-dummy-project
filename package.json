@@ -1,0 +1,28 @@
+{
+  "name": "aarogya-setu-dummy-project",
+  "version": "1.0.0",
+  "description": "\"company assignment\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachinp2906/aarogya-setu-dummy-project.git"
+  },
+  "author": "\"Sachin Patidar\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachinp2906/aarogya-setu-dummy-project/issues"
+  },
+  "homepage": "https://github.com/sachinp2906/aarogya-setu-dummy-project#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.8.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
